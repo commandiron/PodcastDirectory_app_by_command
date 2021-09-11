@@ -1,0 +1,2 @@
+rootProject.name='PodcastDirectory_app_by_command'
+include ':app'
